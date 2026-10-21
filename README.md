@@ -19,7 +19,7 @@ Uma solução completa de inteligência de compras e automação de descontos pa
 | 🌐 **Portal Web Central** | Vitrine ao vivo com ofertas garimpadas, filtros por categoria e cupons ativos | [Acessar Portal Web](https://afiliados-hub.onrender.com) |
 | 💬 **Grupo VIP WhatsApp** | Alertas instantâneos de promoções relâmpago e cupons de alta conversão | [Entrar no Grupo WhatsApp](https://chat.whatsapp.com/LRl2PBcMKtd9fLEL3dpWDM?s=cl&p=a&mlu=4&ilr=4) |
 | ✈️ **Canal VIP Telegram** | Transmissão de bugs de preço, lista diária consolidada e histórico de descontos | [Entrar no Canal Telegram](https://t.me/achadinhos_vip_br) |
-| 📥 **Extensão de Navegador** | Pacote de instalação da extensão para Google Chrome e Microsoft Edge | [Download da Extensão (.zip)](https://github.com/OhXyytVictor/radar-cupons-mercadolivre/releases/latest) |
+| 📥 **Extensão de Navegador** | Pacote de instalação da extensão para Google Chrome e Microsoft Edge | [Download Direto (.zip v1.0.0)](https://github.com/OhXyytVictor/radar-cupons-mercadolivre/releases/download/v1.0.0/radar-cupons-extension-v1.0.0.zip) |
 
 ---
 
@@ -41,7 +41,7 @@ A extensão é baseada na arquitetura **Manifest V3** e é compatível com **Goo
 
 ### 1️⃣ Baixar o Pacote
 1. Baixe o arquivo comprimido da extensão:
-   👉 **[Baixar radar-cupons-extension-v1.0.0.zip](https://github.com/OhXyytVictor/radar-cupons-mercadolivre/releases/latest)**
+   👉 **[Baixar radar-cupons-extension-v1.0.0.zip (Download Direto)](https://github.com/OhXyytVictor/radar-cupons-mercadolivre/releases/download/v1.0.0/radar-cupons-extension-v1.0.0.zip)**
 2. Localize o arquivo na sua pasta de Downloads, clique com o botão direito e selecione **"Extrair tudo..."** (extraia em uma pasta de fácil acesso, como `Documentos\radar-cupons`).
 
 ### 2️⃣ Abrir a Tela de Extensões do Navegador
